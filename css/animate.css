@@ -1,0 +1,18 @@
+/* Tùy chỉnh thanh cuộn cho Chrome, Safari và Edge */
+.list-order-product::-webkit-scrollbar {
+  width: 5px;
+}
+
+.list-order-product::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.list-order-product::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.list-order-product::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}

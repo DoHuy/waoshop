@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Welcome to the Store!",
+    "content": "Start writing something"
+  },
+  "common": {
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "search": "Search",
+    "account": "Account",
+    "wishlist": "Wishlist",
+    "add_to_cart": "Add to cart"
+  }
+}

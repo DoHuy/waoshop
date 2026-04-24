@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Willkommen im Shop!",
+    "content": "Beginnen Sie mit dem Schreiben"
+  },
+  "common": {
+    "cart": "Warenkorb",
+    "checkout": "Zur Kasse",
+    "search": "Suche",
+    "account": "Konto",
+    "wishlist": "Wunschliste",
+    "add_to_cart": "In den Warenkorb"
+  }
+}

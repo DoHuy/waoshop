@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "¡Bienvenido a la tienda!",
+    "content": "Comienza a escribir algo"
+  },
+  "common": {
+    "cart": "Carrito",
+    "checkout": "Pagar",
+    "search": "Buscar",
+    "account": "Cuenta",
+    "wishlist": "Lista de deseos",
+    "add_to_cart": "Añadir al carrito"
+  }
+}

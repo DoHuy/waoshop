@@ -1,0 +1,29 @@
+/* Chỉ áp dụng cho màn hình có chiều rộng nhỏ hơn 768px (Mobile) */
+@media (max-width: 767px) {
+  .footer-bottom-wrap {
+    /* Sử dụng Flexbox để quản lý bố cục */
+    display: flex;
+    
+    /* Sắp xếp các phần tử con (thẻ p và thẻ ul) theo chiều dọc */
+    flex-direction: column;
+    
+    /* Căn giữa các phần tử con theo chiều ngang */
+    align-items: center;
+    
+    /* Căn giữa văn bản bên trong thẻ p */
+    text-align: center;
+    
+    /* Thêm khoảng cách nếu cần thiết */
+    gap: 15px; 
+  }
+
+  /* Căn chỉnh danh sách icon thanh toán */
+  .footer-bottom-wrap .tf-payment {
+    display: flex;
+    justify-content: center; /* Căn giữa các icon */
+    flex-wrap: wrap;         /* Cho phép icon xuống dòng nếu màn hình quá nhỏ */
+    padding-left: 0;         /* Loại bỏ padding mặc định của thẻ ul */
+    margin: 0;
+    list-style: none;
+  }
+}

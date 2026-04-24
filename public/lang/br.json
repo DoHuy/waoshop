@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Bem-vindo à loja!",
+    "content": "Comece a escrever algo"
+  },
+  "common": {
+    "cart": "Carrinho",
+    "checkout": "Finalizar compra",
+    "search": "Pesquisar",
+    "account": "Conta",
+    "wishlist": "Lista de desejos",
+    "add_to_cart": "Adicionar ao carrinho"
+  }
+}
